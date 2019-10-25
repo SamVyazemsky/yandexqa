@@ -1,3 +1,4 @@
 Файл input.txt в одну строку принимает параметры через запятую
+
 Запук:
-python runner.py
+  python runner.py
