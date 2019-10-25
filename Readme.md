@@ -1,0 +1,2 @@
+Запук:
+python runner.py
